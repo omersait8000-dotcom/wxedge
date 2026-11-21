@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-20T23:11:45Z",
+ "built_at": "2026-11-21T03:30:15Z",
  "mode": "full",
  "backtest": {
   "n": 379,
@@ -13,16 +13,16 @@
   "n": 42,
   "resolved": 42,
   "hit": 11.904761904761905,
-  "snap_city_days": 44244
+  "snap_city_days": 44393
  },
  "spread": {
   "n": 90,
   "bins": 90,
-  "measured_at": "2026-11-20T03:20:40.347808Z",
+  "measured_at": "2026-11-21T03:20:34.957722Z",
   "ask_last": 0.009999999999999995,
   "last_bid": 0.009999999999999995,
   "spread": 0.02,
-  "settled": 12
+  "settled": 10
  },
  "gates": [
   {
