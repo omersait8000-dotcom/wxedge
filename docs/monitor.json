@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-22T21:11:57Z",
+ "built_at": "2026-11-24T03:30:16Z",
  "mode": "full",
  "backtest": {
   "n": 379,
@@ -10,18 +10,18 @@
   "dd": 200.0
  },
  "forward": {
-  "n": 42,
-  "resolved": 42,
-  "hit": 11.904761904761905,
-  "snap_city_days": 46497
+  "n": 46,
+  "resolved": 46,
+  "hit": 10.869565217391305,
+  "snap_city_days": 47663
  },
  "spread": {
   "n": 90,
   "bins": 90,
-  "measured_at": "2026-11-22T03:20:34.747090Z",
-  "ask_last": 0.008499999999999999,
-  "last_bid": 0.009000000000000001,
-  "spread": 0.018,
+  "measured_at": "2026-11-24T03:20:36.115350Z",
+  "ask_last": 0.010000000000000009,
+  "last_bid": 0.011500000000000003,
+  "spread": 0.024,
   "settled": 10
  },
  "gates": [
@@ -35,13 +35,13 @@
    "n": 2,
    "title": "หลักฐาน bid/ask จริง",
    "status": "progress",
-   "value": "วัดได้ 90 bins (ask−last median 0.0085)"
+   "value": "วัดได้ 90 bins (ask−last median 0.0100)"
   },
   {
    "n": 3,
    "title": "forward-test จริง ≥ 50 ไม้ · ชนะ ≥ 85%",
    "status": "progress",
-   "value": "42/50 ไม้ settled · ชนะ 11.9%"
+   "value": "46/50 ไม้ settled · ชนะ 10.9%"
   },
   {
    "n": 4,
