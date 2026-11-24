@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-24T06:25:12Z",
+ "built_at": "2026-11-24T06:31:33Z",
  "mode": "full",
  "backtest": {
   "n": 379,
@@ -13,7 +13,7 @@
   "n": 46,
   "resolved": 46,
   "hit": 10.869565217391305,
-  "snap_city_days": 47742
+  "snap_city_days": 47750
  },
  "spread": {
   "n": 90,
